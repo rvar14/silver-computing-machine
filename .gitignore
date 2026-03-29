@@ -16,3 +16,6 @@ __pycache__/
 # Nombres específicos por si acaso
 Estados_*.zip
 Reporte_Movimientos.xlsx
+
+
+.DS_Store
